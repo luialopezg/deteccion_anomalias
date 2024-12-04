@@ -82,7 +82,7 @@ Investigación Adicional
 Además de las técnicas implementadas, se busca investigar y aplicar una técnica moderna de detección de anomalías, seleccionando un caso de uso concreto y evaluando sus resultados.
 
 Autoría: Este proyecto fue desarrollado como parte del Máster Universitario en Inteligencia Artificial.
-Contacto: luialopezg@dominio.com
+Contacto: luialopezg@gmail.com
 
 
 Este archivo proporciona un marco sólido y profesional para documentar el proyecto. ¿Quieres agregar o ajustar algo? &#8203;:contentReference[oaicite:0]{index=0}&#8203;
